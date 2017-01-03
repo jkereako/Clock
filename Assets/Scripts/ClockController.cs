@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-public class ClockAnimator: MonoBehaviour {
+public class ClockController: MonoBehaviour {
 	public Transform hours, minutes, seconds;
 
 	private const float
